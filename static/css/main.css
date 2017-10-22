@@ -62,6 +62,10 @@ a:hover {
     padding: 0 15px;
 }
 
+.no-bullets {
+    list-style: none;
+}
+
 /*list item for posts and projects*/
 
 .item {
